@@ -1,0 +1,17 @@
+export const CREATE_MED = "CREATE_MED";
+export const RETRIEVE_MEDS = "RETRIEVE_MEDS";
+export const UPDATE_MED = "UPDATE_MED";
+export const DELETE_MED = "DELETE_MED";
+export const DELETE_ALL_MEDS = "DELETE_ALL_MEDS";
+export const SEARCH_MED = "SEARCH_MED";
+
+export const RETRIEVE_DEPARTMENTS = "RETRIEVE_DEPARTMENTS";
+
+export const ADD_TO_CART = "ADD_TO_CART";
+export const DELETE_FROM_CART = "DELETE_FROM_CART";
+export const CREATE_ORDER_FROM_CART = "CREATE_ORDER_FROM_CART";
+export const UPDATE_USER = "UPDATE_USER";
+
+
+export const GET_ALL_CART_ITEMS = "GET_ALL_CART_ITEMS";
+
